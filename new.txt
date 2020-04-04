@@ -1,3 +1,0 @@
-this is git;
-that is new git;
-this is difference
